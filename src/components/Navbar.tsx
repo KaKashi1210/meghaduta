@@ -10,7 +10,7 @@ export default () => {
           <Link to="/">
             <ul className="flex flex-row items-center m-auto">
               <li>
-                <img src="./../../public/logo.png" height={60} width={60} />
+                <img src="logo.png" height={60} width={60} />
               </li>
               <li className="text-3xl font-sans mx-5">  Meghaduta </li>
             </ul>
